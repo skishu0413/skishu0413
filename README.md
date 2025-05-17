@@ -1,9 +1,13 @@
-# 💫 About Me:
-- 👋 Hi, I’m @skishu0413 (Suraj Khadka)
-- 👀 I’m interested in learining new things and exploring new technical method and style.
-- 🌱 I currently finished my Bachelor's degree with major in Computer Science and a minor in Mathematics.
-- 💞️ I’m looking for new oppurtunity to learn new skills.
-- 📫 Anyone can reach me through my personal email: surajkhadka231@gmail.com
+## 💫 About Me
+
+👋 Hi, I’m **Suraj Khadka** (@skishu0413)  
+🎓 I’m currently pursuing a **Master of Science in Cybersecurity** at **Georgia Tech**, and hold a **Bachelor’s degree in Computer Science** with a **minor in Mathematics**.  
+💻 With a strong foundation in software development, I specialize in building secure, scalable applications using Java, Spring Boot, React, and SQL-based databases.  
+🛡️ Passionate about cybersecurity, I actively work on projects involving **phishing simulation**, **malware analysis**, **threat detection**, and **incident response**.  
+🔍 Always eager to explore new technologies, tools, and frameworks in both development and security domains.  
+📫 Let’s connect!  
+&nbsp;&nbsp;&nbsp;&nbsp;📧 **surajkhadka7431@gmail.com**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 [LinkedIn](https://www.linkedin.com/in/khadka04/) | [GitHub](https://github.com/skishu0413)
 
 <!---
 skishu0413/skishu0413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
