@@ -15,31 +15,58 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast and software develo
 
 📫 **Contact:** surajkhadka7431@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/khadka04](https://www.linkedin.com/in/khadka04/)  
-💻 **GitHub:** [github.com/skishu0413](https://github.com/skishu0413)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔗 [Phishing Simulation using GoPhish](https://github.com/skishu0413/Info_Security_Labs_CS6264/tree/main/Malware_Analysis)
-- Simulated a credential harvesting phishing attack using GoPhish
-- Conducted OSINT reconnaissance and URL obfuscation to increase campaign realism
+### 🔗 [Phishing Simulation using GoPhish](https://github.com/skishu0413/Public_Policy/tree/main/Phishing_Simulation)
+- Simulated a credential harvesting phishing attack using GoPhish  
+- Performed OSINT reconnaissance and used URL obfuscation to enhance campaign realism  
+- Demonstrated real-world social engineering techniques in a controlled lab environment
+
+### 🛡️ [Network-Based Intrusion Detection System](https://github.com/skishu0413/Info_Security_Labs/tree/main/Network_based_IDS)
+- Built a Snort-based IDS to detect and log malicious traffic such as FTP-exfiltrated ELF binaries and embedded executables in PDF files  
+- Developed Python automation for log parsing, alert filtering, and cross-system file transfers  
+- Demonstrated real-time packet inspection and signature-based detection for network forensics
 
 ### 🔬 [Malware Analysis Lab](https://github.com/skishu0413/Info_Security_Labs_CS6264/tree/main/Malware_Analysis)
-- Analyzed suspicious Linux ELF binaries using Ghidra, objdump, and Wireshark
-- Created YARA rules to detect malware signatures and observed C2 communication
+- Reverse engineered suspicious Linux ELF binaries using Ghidra and `objdump`  
+- Monitored network behavior with Wireshark and crafted custom YARA rules  
+- Investigated malware behavior, C2 communication, and binary payloads
 
 ### 🤖 [AI-Based Threat Detection System] *(Coming Soon)*
-- Developing a machine learning pipeline for real-time anomaly detection in system logs
+- Designing a machine learning pipeline for anomaly detection in system logs  
+- Will use Isolation Forest and One-Class SVM models to classify threats  
+- Includes real-time alerting and dashboard integration for security analysts
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Languages:** Java, Python, JavaScript, SQL, Bash  
-**Frameworks/Tools:** Spring Boot, React.js, MySQL, PostgreSQL, Git, Groovy, JUnit  
-**Cybersecurity:** Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark, Snort, Splunk, OWASP ZAP, John the Ripper  
-**Core Areas:** Secure Coding, Threat Simulation, Vulnerability Analysis, Incident Handling, Digital Forensics
+### 🧑‍💻 Programming Languages
+- Java, Python, JavaScript, SQL, Bash, HTML, CSS
+
+### 🧰 Frameworks & Libraries
+- Spring Boot, Flask, Hibernate, React.js, AngularJS, JUnit, Groovy, jQuery, Bootstrap, Tailwind CSS
+
+### 🔐 Cybersecurity Tools
+- Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark, objdump, Snort, Splunk, OWASP ZAP, John the Ripper, Ghidra, YARA
+
+### ☁️ DevOps & Cloud
+- Docker, AWS, Git, GitHub, CI/CD pipelines
+
+### 🗂️ Project & Issue Management
+- Jira, Trello
+
+### 🛢️ Databases
+- MySQL, PostgreSQL, OracleSQL
+
+### 🧪 Virtualization & Environments
+- VirtualBox, VMware, Docker-based lab setups
+
+### 🎯 Core Competencies
+- Secure Coding, Threat Simulation, Vulnerability Analysis, Incident Handling and Response, Digital Forensics, Malware Analysis, Full-Stack Development
 
 ---
 
