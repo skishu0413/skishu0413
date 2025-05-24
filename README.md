@@ -45,10 +45,10 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast and software develo
 ## 🛠️ Skills & Tools
 
 ### 🧑‍💻 Programming Languages
-- Java, Python, JavaScript, SQL, Bash, HTML, CSS
+- Java, Python, JavaScript, SQL, Bash, HTML, CSS, JSON, XML, YAML
 
 ### 🧰 Frameworks & Libraries
-- Spring Boot, Flask, Hibernate, React.js, AngularJS, JUnit, Groovy, jQuery, Bootstrap, Tailwind CSS
+- Spring Boot, Flask, Hibernate, React.js, AngularJS, ExpressJS, NodeJS, JUnit, Groovy, jQuery, Bootstrap, Tailwind CSS
 
 ### 🔐 Cybersecurity Tools
 - Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark, objdump, Snort, Splunk, OWASP ZAP, John the Ripper, Ghidra, YARA
@@ -64,6 +64,9 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast and software develo
 
 ### 🧪 Virtualization & Environments
 - VirtualBox, VMware, Docker-based lab setups
+
+### 💻 Operating Systems
+- Ubuntu, Linux, macOS, Windows
 
 ### 🎯 Core Competencies
 - Secure Coding, Threat Simulation, Vulnerability Analysis, Incident Handling and Response, Digital Forensics, Malware Analysis, Full-Stack Development
