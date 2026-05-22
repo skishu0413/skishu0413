@@ -98,7 +98,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skishu0413&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=skishu0413&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -106,7 +106,7 @@
 
 ### 🤝 Open to Collaborate & Connect
 
-*Application Security · Penetration Testing · Secure Development · DevSecOps*
+*Application Security · Secure Development · DevSecOps*
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khadka04)
 [![Email](https://img.shields.io/badge/Send%20a%20Message-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajkhadka7431@gmail.com)
